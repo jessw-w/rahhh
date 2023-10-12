@@ -1,0 +1,49 @@
+h1{
+    color: blueviolet;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: blue;
+    font-size: xx-large;
+    text-align: center;
+}
+
+#myTitle1{
+    color:blue
+}
+
+#myTitle2{
+    color:yellow
+}
+
+.blah{
+    color:aliceblue;
+    background-color: aquamarine;
+}
+h6{
+    color: brown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+
+#fsldkfjsdfm{
+    text-align: right;
+}
+
+p{
+    color: rgb 2px;
+    text-align: center;
+    font-style: italic;
+}
+
+.allPara{
+    padding-top: 100px;
+}
+
+a:hover{
+    color: red;
+}
+
+#imgg{
+    text-align: center;
+}
+/* ID > Class > General , although ID>order */
